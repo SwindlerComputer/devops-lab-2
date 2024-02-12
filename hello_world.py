@@ -1,2 +1,2 @@
 # hello_world.py
-print("Welcome!")
+print("This is another string!")
